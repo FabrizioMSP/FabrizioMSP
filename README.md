@@ -1,7 +1,7 @@
 <!--
   ╭──────────────────────────────────────────────────────────────╮
-  │  GitHub Profile README — FabrizioMSP                          │
-  │  Lives in the public repo FabrizioMSP/FabrizioMSP.            │
+  │  GitHub Profile README — FabrizioMag                          │
+  │  Lives in the public repo FabrizioMag/FabrizioMag.            │
   ╰──────────────────────────────────────────────────────────────╯
 -->
 
@@ -9,13 +9,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,20,24&text=Fabrizio%20Magistrelli&fontColor=e9d5ff&fontSize=48&fontAlignY=35&desc=cloud%20%C2%B7%20agents%20%C2%B7%20security&descAlignY=55&descSize=18&animation=fadeIn" alt="banner" />
 
-<a href="https://github.com/FabrizioMSP">
+<a href="https://github.com/FabrizioMag">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=720&lines=Cloud+%26+Platform+Engineer;AI+%2F+Agentic+Systems+Builder;Security+%26+Offensive+Testing;I+ship+systems%2C+not+slides." alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=FabrizioMSP&label=Profile%20views&color=a855f7&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=FabrizioMag&label=Profile%20views&color=a855f7&style=flat-square" alt="profile views" />
 &nbsp;
 <a href="mailto:f.magistrelli@southpole.com">
   <img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=a855f7" alt="email" />
@@ -77,20 +77,20 @@ autonomous agents, and security overlap.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FabrizioMSP&show_icons=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioMSP&layout=compact&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FabrizioMag&show_icons=true&hide_border=true&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioMag&layout=compact&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=FabrizioMSP&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=a855f7" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=FabrizioMag&hide_border=true&background=0d1117&ring=a855f7&fire=a855f7&currStreakLabel=a855f7&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=a855f7" alt="GitHub streak" />
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FabrizioMSP&bg_color=0d1117&color=c9d1d9&line=a855f7&point=e9d5ff&area=true&area_color=a855f7&hide_border=true&radius=8" alt="activity graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FabrizioMag&bg_color=0d1117&color=c9d1d9&line=a855f7&point=e9d5ff&area=true&area_color=a855f7&hide_border=true&radius=8" alt="activity graph" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=FabrizioMSP&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=FabrizioMag&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
@@ -101,9 +101,9 @@ autonomous agents, and security overlap.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabrizioMSP/FabrizioMSP/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabrizioMSP/FabrizioMSP/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/FabrizioMSP/FabrizioMSP/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FabrizioMag/FabrizioMag/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FabrizioMag/FabrizioMag/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/FabrizioMag/FabrizioMag/output/github-snake-dark.svg" />
 </picture>
 
 </div>
